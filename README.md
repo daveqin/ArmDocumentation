@@ -1,5 +1,6 @@
 # ArmDocumentation
 Mechanical arm usage documentation
+![Image text](https://github.com/daveqin/ArmDocumentation/blob/main/0.png)
 ![Image text](https://github.com/daveqin/ArmDocumentation/blob/main/1.jpg)
 ![Image text](https://github.com/daveqin/ArmDocumentation/blob/main/2.jpg)
 ![Image text](https://github.com/daveqin/ArmDocumentation/blob/main/3.jpg)
@@ -23,6 +24,7 @@ Mechanical arm usage documentation
 ![Image text](https://github.com/daveqin/ArmDocumentation/blob/main/21.jpg)
 ![Image text](https://github.com/daveqin/ArmDocumentation/blob/main/22.jpg)
 ![Image text](https://github.com/daveqin/ArmDocumentation/blob/main/23.jpg)
+![Image text](https://github.com/daveqin/ArmDocumentation/blob/main/23-1.jpg)
 ![Image text](https://github.com/daveqin/ArmDocumentation/blob/main/24.jpg)
 ![Image text](https://github.com/daveqin/ArmDocumentation/blob/main/25.jpg)
 ![Image text](https://github.com/daveqin/ArmDocumentation/blob/main/26.jpg)
@@ -52,12 +54,7 @@ Mechanical arm usage documentation
 ![Image text](https://github.com/daveqin/ArmDocumentation/blob/main/50.jpg)
 ![Image text](https://github.com/daveqin/ArmDocumentation/blob/main/51.jpg)
 ![Image text](https://github.com/daveqin/ArmDocumentation/blob/main/52.jpg)
-![Image text](https://github.com/daveqin/ArmDocumentation/blob/main/53.jpg)
-![Image text](https://github.com/daveqin/ArmDocumentation/blob/main/54.jpg)
-![Image text](https://github.com/daveqin/ArmDocumentation/blob/main/55.jpg)
-![Image text](https://github.com/daveqin/ArmDocumentation/blob/main/56.jpg)
-![Image text](https://github.com/daveqin/ArmDocumentation/blob/main/57.jpg)
-![Image text](https://github.com/daveqin/ArmDocumentation/blob/main/58.jpg)
+
 
 
 
